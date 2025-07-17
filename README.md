@@ -26,12 +26,5 @@ Key functionalities of the application:
 - **Spring Boot**: 3+
 - **OpenWeatherMap API Key**: You must sign up at [OpenWeatherMap](https://openweathermap.org/api) to obtain your API key.
 
-## Setup Instructions
 
-### 1. Clone the Repository
-Clone the repository to your local machine:
-
-```bash
-https://github.com/Vishnuka084/VISiONEXDIGITAL_TASK.git
-cd VISiONEXDIGITAL_TASK
 
